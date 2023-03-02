@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sama</h1>
+
+![fxac](https://user-images.githubusercontent.com/107030945/222374095-9aa55b88-796a-4eea-b50c-d3110203ff1c.gif)
+
 <h3 align="center">A passionate frontend developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sama-babaee-web&label=Profile%20views&color=0e75b6&style=flat" alt="sama-babaee-web" /> </p>
