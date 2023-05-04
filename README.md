@@ -44,7 +44,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sama-babaee-web&theme=midnight-purple)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roycuadra&hide_progress=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sama-babaee-web&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
