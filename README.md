@@ -42,5 +42,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=sama-babaee-web&theme=midnight-purple&no-frame=true&no-bg=false&margin-w=4)
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sama-babaee-web&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
