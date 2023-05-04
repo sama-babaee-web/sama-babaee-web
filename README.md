@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-# 💫 About Me:
+# 💫 About Me :
 
 - 💡 I’m Sama Babaee, A FrontEnd developer who is looking to grow as a Full-Stack Developer
 
@@ -28,7 +28,7 @@
 
 
 
-# 💻 Tech Stack:
+# 💻 Tanguages and Tools :
 <p align="left"> 
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
