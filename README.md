@@ -11,28 +11,17 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sama-babaee-web](https://github.com/sama-babaee-web)
 
-- 💬 Ask me about **React , Javascript , Bootstrap , Tailwind , Scss, Css3 , Html5**
+- 💬 Ask me about **React , Javascript , Bootstrap , Tailwind ,Responsive , PWA , API , Scss, Css3 , Html5**
 
 - 📫 How to reach me **samababaee8866@gmail.com**
 
 ## 🌐 Socials:
 
 <p align="left">
-<a href="https://linkedin.com/in/mobina-jafarian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mobina-jafarian" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/17316590/mobina-jafarian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="/17316590/mobina-jafarian" height="30" width="40" /></a>
-<a href="https://dev.to/mobinajafarian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mobina-jafarian" height="30" width="40" /></a> 
-<a href="https://gitlab.com/MobinaJafarian" target="blank">
-  <img align="center" src="https://img.icons8.com/color/2x/gitlab.png" alt="mobina-jafarian" height="30" width="40" /></a>
-<a href="https://mobina.nezhadjfarian@gmail.com" target="blank">
-  <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="mobina-jafarian" height="30" width="40" /></a>
-<a href="https://twitter.com/MobinaJafarian" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=mobina-jafarian" height="30" width="40" /></a> 
-<a href="https://t.me/mobina_nj1" target="blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/null/telegram-app.png" alt="mobina-jafarian" /></a>
+<a href="https://linkedin.com/in/sama-babaee-54135324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sama-babaee-54135324b" height="30" width="40" /></a>
+<a href="https://instagram.com/sama_babaee_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sama_babaee_web" height="30" width="40" /></a>
 </p>
+
 
 
 # 💻 Tech Stack:
