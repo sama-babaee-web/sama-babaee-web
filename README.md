@@ -49,5 +49,3 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sama-babaee-web&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sama-babaee-web&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
