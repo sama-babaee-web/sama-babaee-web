@@ -6,10 +6,14 @@
 </h1>
 
 # 💫 About Me:
-💡 I’m Mobina Jafarian, A Software Engineer who is looking to grow as a Back-end Developer<br><!-- 🔭 I’m currently working on https://github.com/MobinaJafarian/laravelCmsProject<br> -->
-🌱 I’m currently learning Laravel<br>
-💬 Ask me about PHP , Laravel<br>
-📫 You can contact me at mobina.nezhadjfarian@gmail.com
+
+- 💡 I’m Sama Babaee, A FrontEnd developer who is looking to grow as a Full-Stack Developer<br>
+- 
+- 👨‍💻 All of my projects are available at [https://github.com/sama-babaee-web](https://github.com/sama-babaee-web)
+
+- 💬 Ask me about **React , Javascript , Bootstrap , Tailwind , Scss, Css3 , Html5**
+
+- 📫 How to reach me **samababaee8866@gmail.com**
 
 ## 🌐 Socials:
 
