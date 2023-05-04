@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 
-- 💡 I’m Sama Babaee, A FrontEnd developer who is looking to grow as a Full-Stack Developer<br>
+- 💡 I’m Sama Babaee, A FrontEnd developer who is looking to grow as a Full-Stack Developer
 - 
 - 👨‍💻 All of my projects are available at [https://github.com/sama-babaee-web](https://github.com/sama-babaee-web)
 
