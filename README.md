@@ -39,12 +39,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sama-babaee-web&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MobinaJafarian&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sama-babaee-web&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MobinaJafarian&label=Profile%20views&color=fe428e&style=plastic" alt="MobinaJafarian" /></p>
