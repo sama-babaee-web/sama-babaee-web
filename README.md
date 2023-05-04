@@ -39,8 +39,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sama-babaee-web&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 📈 GitHub Activity Graph:
-[![BEPb's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=sama-babaee-web&theme=github-compact)](https://github.com/sama-babaee-web/github-readme-activity-graph)
+
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
