@@ -52,3 +52,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sama-babaee-web&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
 
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
+</a>
+
