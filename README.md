@@ -8,7 +8,7 @@
 # 💫 About Me:
 
 - 💡 I’m Sama Babaee, A FrontEnd developer who is looking to grow as a Full-Stack Developer
-- 
+
 - 👨‍💻 All of my projects are available at [https://github.com/sama-babaee-web](https://github.com/sama-babaee-web)
 
 - 💬 Ask me about **React , Javascript , Bootstrap , Tailwind , Scss, Css3 , Html5**
