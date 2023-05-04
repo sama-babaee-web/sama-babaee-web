@@ -33,14 +33,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sama-babaee-web&show_icons=true&locale=en&layout=compact" alt="sama-babaee-web" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sama-babaee-web&show_icons=true&locale=en" alt="sama-babaee-web" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sama-babaee-web&" alt="sama-babaee-web" /></p>
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sama-babaee-web&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sama-babaee-web&theme=radical&hide_border=true)<br/>
