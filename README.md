@@ -39,15 +39,15 @@
 
 # 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=sama-babaee-web&theme=midnight-purple&hide_border=true&center=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sama-babaee-web&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sama-babaee-web&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=sama-babaee-web&theme=midnight-purple&center=true&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sama-babaee-web&theme=midnight-purple&center=true&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 ![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sama-babaee-web&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=sama-babaee-web&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sama-babaee-web&label=Profile%20views&color=fe428e&style=plastic" alt="sama-babaee-web" /></p>
