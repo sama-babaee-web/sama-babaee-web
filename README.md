@@ -44,7 +44,6 @@
 
 
 
-![](https://github.com/BEPb/BEPb/blob/output/github-contribution-grid-snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sama-babaee-web&theme=radical&no-frame=true&no-bg=false&center=true&margin-w=4)
