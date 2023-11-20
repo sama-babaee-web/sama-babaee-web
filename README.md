@@ -23,7 +23,7 @@
 
 <p align="left">
 <a href="https://linkedin.com/in/sama-babaee-54135324b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sama-babaee-54135324b" height="30" width="40" /></a>
-<a href="https://instagram.com/sama_babaee_web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sama_babaee_web" height="30" width="40" /></a>
+<a href="https://instagram.com/sama.babaee_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sama_babaee_web" height="30" width="40" /></a>
   <a href="https://samababaee8866@gmail.com" target="blank">
   <img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-gmail-icon-download-png-and-vector-1.png" alt="sama-babaee-web" height="30" width="40" /></a>
   <a href="https://t.me/sama_b4" target="blank">
